@@ -1,4 +1,4 @@
 applications:
-- name: node-hello-world
+- name: pjv-manual
   memory: 128M
   buildpack: sdk-for-nodejs
